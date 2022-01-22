@@ -1,4 +1,4 @@
-from src import proxyclass
+from src.proxyclass import proxyclass
 
 
 class A:

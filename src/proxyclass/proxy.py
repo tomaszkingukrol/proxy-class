@@ -1,5 +1,4 @@
 from abc import ABCMeta
-import inspect
 
 from .annotation_utility import (
     get_function_defined_directly_in_annotation,

@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
 
-from src import proxyclass
+from src.proxyclass import proxyclass
 
 
 class Interface(ABC):

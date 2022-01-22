@@ -8,7 +8,7 @@ See example [here](example/proxies)
 
 and implementation of few GoF design patterns [here](example/GoF)
 
-- adapter
-- bridge
-- decorator
-- facade
+- Adapter
+- Bridge
+- Decorator
+- Facade
